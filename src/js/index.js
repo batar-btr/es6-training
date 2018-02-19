@@ -41,6 +41,7 @@ let myObj = {
 };
 
 
+
 for (let item of myObj) {
     console.log(item);
 }
