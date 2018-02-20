@@ -1,3 +1,5 @@
+require('../sass/style.scss');
+
 function* createIterator() {
     yield 1;
     yield 2;
